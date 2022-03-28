@@ -37,7 +37,8 @@ Step 6e-f: Created another decision statement that determines the county with th
 
 Step 7: Created a final print out statement with the county with the largest turnout. 
 
-![SS7](https://user-images.githubusercontent.com/57520471/160316787-6e4757f0-399e-4df9-9763-dbdb00255b40.png)
+![SS7](https://user-images.githubusercontent.com/57520471/160317287-ef7920c8-b20d-40ea-84b8-c1203b5ba8c3.png)
+
 
 Step 8: Created a for loop that saves the largest county turnout, each candidate's vote count and percentage, and the winning candidate vote count and percentage to a text file. 
 
